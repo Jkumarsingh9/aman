@@ -1,6 +1,6 @@
 //helloo  guuuuuu khaloo guyss
 
-
+// tatti khalo salo
 
 #include <stdio.h>
 
