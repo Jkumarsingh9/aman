@@ -1,9 +1,5 @@
 //helloo  guuuuuu khaloo guyss
-
-// atti khalo salo
-// do do baar saloo hhh
-//ky haal hai
-
+//sorry for deletion
 #include <stdio.h>
 
 // Function to check if a number is part of the Fibonacci sequence
