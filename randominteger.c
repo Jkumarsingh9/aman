@@ -1,7 +1,8 @@
 //helloo  guuuuuu khaloo guyss
 
 // atti khalo salo
-// do do baar saloo 
+// do do baar saloo hhh
+//ky haal hai
 
 #include <stdio.h>
 
