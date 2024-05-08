@@ -1,5 +1,6 @@
+
 //helloo guyss how are you   MAIN
- 
+  
 #include <stdio.h>
 
 // Function to check if a number is part of the Fibonacci sequence
