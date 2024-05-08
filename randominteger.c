@@ -1,7 +1,12 @@
 
+<<<<<<< HEAD
 //helloo guyss 
 //f211
 
+=======
+//helloo guyss how are you
+// this is in main branch for you now 
+>>>>>>> feature2
 #include <stdio.h>
 
 // Function to check if a number is part of the Fibonacci sequence
